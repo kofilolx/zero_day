@@ -1,2 +1,2 @@
 Welcome to the Zero day project
-[^1]: New project in ALX SE course
+: A new project in ALX SE course
